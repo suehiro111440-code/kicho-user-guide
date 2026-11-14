@@ -1,24 +1,15 @@
-# 記帳アプリの説明資料
+# 記帳アプリの画面付き説明資料
 
-領収書・通帳・カードをひとつのアプリで扱う、統合試用版2026.10.24.5のご案内です。実画面を使った全8ページです。GitHubアカウントなしで取得できます。
+統合試用版2026.11.14.4の操作と、前回から変わったところをまとめた10ページ資料です。
 
-[PDFで見る](https://github.com/suehiro111440-code/kicho-user-guide/releases/latest/download/kicho-guide.pdf)
+[説明資料PDFをダウンロード](https://github.com/suehiro111440-code/kicho-user-guide/releases/download/v2026.11.14/kicho-guide.pdf)
 
-[スライド資料をダウンロード（HTML）](https://github.com/suehiro111440-code/kicho-user-guide/releases/latest/download/index.html)
+[説明資料をまとめて保存](https://github.com/suehiro111440-code/kicho-user-guide/releases/download/v2026.11.14/kicho-guide.zip)
 
-[まとめてダウンロード（ZIP）](https://github.com/suehiro111440-code/kicho-user-guide/releases/latest/download/kicho-guide.zip)
+[アプリ2026.11.14.4をダウンロード](https://github.com/suehiro111440-code/kicho-app/releases/download/v2026.11.14.4/KichoApp_Setup_2026.11.14.4.exe)
 
-## 開き方
+新版のアプリはダウンロードとインストールが必要です。対応する前回の作業は「前回の続きから開く」でコピーして続けられます。
 
-1. PDFで見る場合は「PDFで見る」を開きます。
-2. HTMLはダウンロード後、ファイルをダブルクリックします。
-3. 「次へ」「前へ」でページを切り替え、小さい文字は「拡大」で確認します。
-4. ZIPは右クリックして「すべて展開」を選び、フォルダ内のindex.htmlまたはPDFを開きます。
+新しい確認画面の試用は「その他」→「新しい作業」から、架空資料を少量で始めてください。
 
-## 試用の範囲
-
-3種類の共通操作、Googleの一覧、台帳・CSVを説明しています。新版の領収書AI読取とご利用PCでの初回操作は、架空資料でこれから確認します。旧お客様登録・科目辞書・Excel一覧の自動移行には対応していません。
-
-説明資料のみです。アプリ本体・ソースコード・実際の業務データ・APIキー・Googleログイン情報は含みません。画面内の書類・お客様・メールアドレスは架空例です。
-
-旧アプリ向けの9ページ資料は、[過去のリリース](https://github.com/suehiro111440-code/kicho-user-guide/releases/tag/v2026.10.17.5)に残しています。
+資料は架空画面を使用しています。配布先PCの新版操作と弥生への取り込みを、次の試用で確認します。
